@@ -1,4 +1,4 @@
-# Reinforcement-Learning-DQN-for-solving-cartpole
+# Reinforcement-Learning-DQN-Cartpole
 Deep Q-Network algorithm for solving the cartpole problem
 
 DQN algorithm employing replay memory and target network for training an RL agent in solving the cartpole
